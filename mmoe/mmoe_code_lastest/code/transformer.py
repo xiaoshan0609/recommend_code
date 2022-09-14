@@ -1,3 +1,5 @@
+# 参考：https://tensorflow.google.cn/tutorials/text/transformer?hl=zh_cn
+
 # 位置编码
 
 import numpy as np
